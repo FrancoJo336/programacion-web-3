@@ -1,0 +1,10 @@
+console.log("Nombre: Franco Quispe Jose Manuel")
+console.log("CI:8334055")
+console.log("Carrera:Informatica")
+console.log("Materia:INF-133")
+console.log("Fecha:29/03/2026")
+console.log("EJERCICIO 10")
+
+console.log("Las promesas son convenientes cuando la\noperacion es asincrona en orden, paso por paso\ncomo si fuera un correo")
+console.log("**************************************")
+console.log("El callback es mas conveniente usarlo \ncuando la operacion requiere ser sincrona,\nque los programas se ejecuten al mismo tiempo como si fuera una llamada")

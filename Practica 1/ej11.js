@@ -1,0 +1,11 @@
+console.log("Nombre: Franco Quispe Jose Manuel")
+console.log("CI:8334055")
+console.log("Carrera:Informatica")
+console.log("Materia:INF-133")
+console.log("Fecha:29/03/2026")
+console.log("EJERCICIO 11")
+new Promise(res => res(2))
+.then(x => x * 2)
+.then(x => x * 3)
+.then(console.log("RESULTADO:"))
+.then(console.log); 
